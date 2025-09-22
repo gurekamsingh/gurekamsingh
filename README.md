@@ -28,7 +28,7 @@ Whether it's deploying apps with Kubernetes, managing state with Redis, or build
 ## 📊 GitHub Stats
 
 ![Gurekam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gurekamsingh&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=gurekamsingh&theme=dark&hide_border=false)](https://github.com/gurekamsingh)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gurekamsingh&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/gurekamsingh)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gurekamsingh&layout=compact&theme=radical)
 
 ---
